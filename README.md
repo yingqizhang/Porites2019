@@ -3,6 +3,17 @@ Physiological trait analysis for P. astreoides larvae derived from different adu
 
 Files in this repository:
 
+- Graphs.R: Annotated R script for generating plots of daily release and mild stress traits by family
+
+    Input files: 
+    - LarvalVolume.csv
+    - ZooxDailyRls.csv
+    - ChlDailyRls.csv
+    - PrtDailyRls.csv
+    - ZooxExp.csv
+    - ChlExp.csv
+    - PrtExp.csv
+
 - CoreStats.R: Annotated R script for generating ANOVA models for daily release traits and mixed models for mild stress data
 
     Input files: 

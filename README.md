@@ -52,3 +52,17 @@ Files in this repository:
     Input files:
     - NetwellSurvivalExptData_Rep2_14Apr18_ModelSurvFit.csv
     - NetweelSurvivalExptData_Rep1_14Apr18_ModelSurvFit.csv
+
+- Temperature logger data for different treatment conditions
+
+    Acute stress:
+    - AmbientBinExtremeTempExpt_run2.csv
+    - ExtremeTempExp_HeatBin_run2.csv
+
+    Mild stress:
+    - TempExp-Ctrl-BinA.csv
+    - TempExp-Ctrl-BinB.csv
+    - TempExp-Ctrl-BinC.csv
+    - TempExp-Heat-BinD.csv
+    - TempExp-Heat-BinE.csv
+    - TempExp-Heat-BinF.csv

@@ -1,4 +1,4 @@
-# PoritesSpawn
+# Porites2019
 Physiological trait analysis for P. astreoides larvae derived from different adult colonies
 
 Files in this repository:
